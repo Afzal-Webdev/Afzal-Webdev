@@ -18,7 +18,7 @@ Muhammad Afzal</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently experimenting with GSAP for story telling inspired animations.
+- 🌱 I’m currently experimenting with Three.js & GSAP for story telling inspired animations.
 
 - 📝 I share my experiments on  (https://codepen.io/Muhammmad-AFZAL-SAHIR)
 

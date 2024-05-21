@@ -22,7 +22,7 @@ Muhammad Afzal</a></h1>
 
 - 📝 I share my experiments on  (https://codepen.io/Muhammmad-AFZAL-SAHIR)
 
-- 💬 Ask me about **CSS3,JavaScript,GSAP and React**
+- 💬 Ask me about **CSS3,JavaScript,Three.js,GSAP and React**
 
 - 📫 How to reach me **muhammad.afzal.sahir@gmail.com**
 
